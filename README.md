@@ -4,17 +4,60 @@
 
 <div align="center">
 
-<!-- Terminal Card -->
-<img src="./terminal.svg" alt="Terminal Card" width="100%"/>
+<!-- ═══════════════════ TERMINAL WINDOW ═══════════════════ -->
+
+<table>
+<tr><td colspan="2">
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp; **SujanNaik890 / README.md** &nbsp;&nbsp; — &nbsp; bash &nbsp; ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</td></tr>
+<tr>
+<td valign="top" width="35%" align="center">
+
+<br/>
+
+<img src="https://github.com/SujanNaik890.png" width="280" alt="Sujan Naik"/>
+
+<br/><br/>
+
+**Sujan Naik**
+<br/>
+`@SujanNaik890` · he/him
+
+<br/>
+
+*Student of Reva University,*
+*Full-Stack Developer,*
+*A Good Problem Solver* 🧩
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujannaik890/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sujannishantgajanannaik68@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SujanNaik890)
+
+<br/>
+
+</td>
+<td valign="top" width="65%">
+
+<img src="./terminal.svg" width="100%" alt="System Info"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<!-- ═══════════════════ GITHUB STATS + LANGUAGES ═══════════════════ -->
 
 <div align="center">
-<h3>Sujan Naik's GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most Used Languages</h3>
+
+<h3>📊 Sujan Naik's GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗂️ Most Used Languages</h3>
+
 </div>
 
 <p align="center">
@@ -24,10 +67,18 @@
 
 <br/>
 
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUTION HEATMAP ═══════════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujanNaik890&bg_color=0d1117&color=00ffcc&line=00e5ff&point=ff79c6&area=true&hide_border=true&area_color=7b2ff7" width="98%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/00e5ff/SujanNaik890" alt="GitHub Contribution Heatmap" width="98%"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujanNaik890&bg_color=0d1117&color=00ffcc&line=00e5ff&point=ff79c6&area=true&hide_border=true&area_color=7b2ff7" width="98%" alt="Activity Graph"/>
 </p>
 
 <br/>
